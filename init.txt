@@ -9,3 +9,5 @@ origin/HEAD
 
 master
 로컬 저장소 브랜치인 「master」의 위치를 나타내고 있습니다.
+
+충돌 부분
