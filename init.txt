@@ -20,8 +20,5 @@ master
 버그 픽스
 
 add: issue1
-<<<<<<< HEAD
 commit: issue2
-=======
->>>>>>> commit issue3
 commit: issue3
